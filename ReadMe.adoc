@@ -1,10 +1,10 @@
 :Author: sachindumalshan
-:Email:
+:Email: sachindu.info@gmail.com
 :Date: 25/10/2023
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: NexHaven - IoT Based Home Automation System
 
 Describe your project
 
