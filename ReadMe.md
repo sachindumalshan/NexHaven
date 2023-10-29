@@ -1,8 +1,8 @@
-<small>Author: sachindumalshan</small>
-:Email: sachindu.info@gmail.com
+Author: sachindumalshan
+Email: sachindu.info@gmail.com
 
 <h2>Project: NexHaven - IoT Based Home Automation System</h2>
-![HomeAutomationSystem_bb](https://github.com/sachindumalshan/NexHaven/assets/73152414/477ce081-1464-46e7-ac9e-6195d9fb00da)
+
 NexHaven is the result of my passion for home automation, combining cutting-edge technology and the power of the Internet of Things (IoT). This project is designed to make life smarter, more convenient, and safer for homeowners.
 
 🧩 Key Components:
