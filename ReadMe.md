@@ -48,5 +48,5 @@ I constructed a charming wooden house prototype using carefully cut and assemble
 Creating a seamless connection between an ESP32 board and the Arduino Cloud Platform is an exciting venture. By configuring variables within the Arduino Cloud, you can monitor and control your ESP32 remotely. Upload the code to your board using the Arduino Create Agent software for real-time data exchange. This combination of IoT technology promises not only functionality but an elegant solution for remotely managing your devices.
 
 
-=== License
-This project is released under a {License} License.
+<h3>License</h3>
+MIT License | Copyright (c) 2023 Sachindu Malshan
