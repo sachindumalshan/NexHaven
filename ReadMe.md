@@ -1,8 +1,9 @@
-Author: sachindumalshan
+Author: sachindumalshan <br>
 Email: sachindu.info@gmail.com
 
 <h2>Project: NexHaven - IoT Based Home Automation System</h2>
 
+![NexHaven](https://github.com/sachindumalshan/NexHaven/assets/73152414/762239ca-b746-451d-969d-898f3cd1d57e)
 NexHaven is the result of my passion for home automation, combining cutting-edge technology and the power of the Internet of Things (IoT). This project is designed to make life smarter, more convenient, and safer for homeowners.
 
 🧩 Key Components:
@@ -40,10 +41,10 @@ For more information: https://bit.ly/NexHaven_HomeAutomationSystem
 Let's make our homes smarter, safer, and more efficient with NexHaven!✨
 
 
-== Step 1:
+<h4><u>Step 1:</u></h4>
 I constructed a charming wooden house prototype using carefully cut and assembled wooden boards. For my circuit board, I placed the components on the board, soldered them together, and tested it for functionality.
 
-== Step 2: 
+<h4><u>Step 2:</u></h4>
 Creating a seamless connection between an ESP32 board and the Arduino Cloud Platform is an exciting venture. By configuring variables within the Arduino Cloud, you can monitor and control your ESP32 remotely. Upload the code to your board using the Arduino Create Agent software for real-time data exchange. This combination of IoT technology promises not only functionality but an elegant solution for remotely managing your devices.
 
 
