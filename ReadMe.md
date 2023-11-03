@@ -35,11 +35,11 @@ NexHaven is the result of my passion for home automation, combining cutting-edge
 💡 Lighting Control:
 - You can control the LED lights in your home through the app.
 
-This project demonstrates the power of IoT by allowing you to stay connected to your home no matter where you are. 
+This project demonstrates the power of IoT by allowing you to stay connected to your home no matter where you are.<br>
 For more information: https://bit.ly/NexHaven_HomeAutomationSystem
 
 Let's make our homes smarter, safer, and more efficient with NexHaven!✨
-
+<hr>
 
 <h4><u>Step 1:</u></h4>
 I constructed a charming wooden house prototype using carefully cut and assembled wooden boards. For my circuit board, I placed the components on the board, soldered them together, and tested it for functionality.
