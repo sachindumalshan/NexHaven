@@ -18,7 +18,7 @@ NexHaven is the result of my passion for home automation, combining cutting-edge
 - 2 x 3.7V 18650mAh Batteries
 
 💡 What Can NexHaven Do?
-NexHaven connects all these components to create a seamless home automation system. Users can remotely access and control their homes from anywhere in the world, thanks to the always-on internet connection. With the help of the Arduino Cloud Platform, you can monitor sensor data through a web dashboard or a dedicated app.
+- NexHaven connects all these components to create a seamless home automation system. Users can remotely access and control their homes from anywhere in the world, thanks to the always-on internet connection. With the help of the Arduino Cloud Platform, you can monitor sensor data through a web dashboard or a dedicated app.
 
 🏠 Home Security:
 - The PIR sensor detects motion, enhancing your home's security.
